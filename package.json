@@ -1,0 +1,31 @@
+{
+  "name": "enterprise-web-test",
+  "version": "1.0.0",
+  "description": "test for EWS",
+  "main": "app.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "express-ejs-layouts": "^2.5.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.9.11",
+    "passport-local": "^1.0.0",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liam-seddon/Enterprise-Web-Test.git"
+  },
+  "author": "Liam Seddon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liam-seddon/Enterprise-Web-Test/issues"
+  },
+  "homepage": "https://github.com/liam-seddon/Enterprise-Web-Test#readme"
+}
